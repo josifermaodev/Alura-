@@ -171,7 +171,7 @@ body {
         background-image: none; 
     }
     .container__image{
-        width: 90vw;
+        width: 50vw;
     }
     .container__box{
         margin: 2em 2em;
@@ -186,7 +186,7 @@ body {
     }
 
     .platforms__image{
-        width: 50vw;
+        width: 90vw;
     }
 
     .devices__list{
