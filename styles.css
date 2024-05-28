@@ -166,7 +166,8 @@ body {
         margin: 0px;
     }
     .container{
-        height: 100vh;
+        height: fit-content;
+        margin: 40px;
         display: block;
         background-image: none; 
     }
